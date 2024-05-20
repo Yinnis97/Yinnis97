@@ -1,17 +1,15 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Yinnis</h1>
 <h3 align="center">I am a student at PXL</h3>
-<img align="right" alt="Coding" width="400" src="ELek.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yinnis97&label=Profile%20views&color=0e75b6&style=flat" alt="yinnis97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yinnis97" alt="yinnis97" /></a> </p>
+<img align="right" alt="Coding" width="400" src="animated-electronics-motherboard.gif">
 
 - 🔭 I’m currently working on **A lot of stuff**
 
 - 🌱 I’m currently learning **How to use GitHub**
 
 - 📫 How to reach me **Yinnis.Kempeneers@student.pxl.be**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yinnis97" alt="yinnis97" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
