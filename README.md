@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **Yinnis.Kempeneers@student.pxl.be**
 
+- 🕒 My hobbies **Elektronics, Gaming , chilling**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yinnis97" alt="yinnis97" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
