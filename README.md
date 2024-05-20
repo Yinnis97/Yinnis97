@@ -1,7 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Yinnis</h1>
 <h3 align="center">I am a student at PXL</h3>
-<img align="right" alt="Coding" width="400" src="animated-electronics-motherboard.gif">
 
 - 🔭 I’m currently working on **A lot of stuff**
 
