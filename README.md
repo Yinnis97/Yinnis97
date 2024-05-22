@@ -4,11 +4,13 @@
 
 - 🔭 I’m currently working on **A lot of stuff**
 
-- 🌱 I’m currently learning **How to use GitHub**
+- 🌱 I’m currently learning   **How to use GitHub**
 
-- 📫 How to reach me **Yinnis.Kempeneers@student.pxl.be**
+- 📫 How to reach me          **Yinnis.Kempeneers@student.pxl.be**
 
-- 🕒 My hobbies **Electronics, Gaming , chilling**
+- 🕒 My hobbies               **Electronics, Gaming , Chilling**
+  
+- 🎶 Like to listen           **Metal**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yinnis97" alt="yinnis97" /></a> </p>
 
