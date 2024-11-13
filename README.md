@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Yinnis</h1>
 <h3 align="center">I am a student at PXL</h3>
 
-- 🔭 I’m currently working on **A lot of stuff**
+- 🔭 I’m currently working on **All kinds of things**
 
-- 🌱 I’m currently learning   **How to use GitHub**
+- 🌱 I’m currently learning   **All kinds of things**
 
 - 📫 How to reach me          **Yinnis.Kempeneers@student.pxl.be**
 
-- 🕒 My hobbies               **Electronics, Gaming , Chilling**
+- 🕒 My hobbies               **Electronics, Programming, ...**
   
 - 🎶 Like to listen           **Metal**
 
