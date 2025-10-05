@@ -1,4 +1,7 @@
-<img src="./header01.png" alt="Header" width="100%" />
+
+<div align="center">
+  <img src="./header01.png" alt="Header" width="100%" />
+</div>
 
 <h3 align="left">About me</h3>
 
